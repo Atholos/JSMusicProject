@@ -33,7 +33,7 @@ App usage is straightforward.
  2. with node, run ```NPM install package.json```. This will get you all of the required dependencies. 
  3. You need an SQL database for the app to run properly. The database structure is in the musicproject.sql file.
     - Also a .env file needs to be set up with the following content:
-    
+    ```
        DB_HOST: "host address for the database here" E.g. DB_HOST=localhost for localhost usage
        
        DB_USER: "database username here"
@@ -41,6 +41,6 @@ App usage is straightforward.
        DB_NAME: "database name here"
        
        DB_PASS: "database password here"
-       
+       ```
        
  4. After configuring the database and running the app, for example with nodemon, the app should work using your browser with the address: localhost:3000
