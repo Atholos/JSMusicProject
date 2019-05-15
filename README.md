@@ -23,7 +23,7 @@ App usage is straightforward.
 1. You can view items without an user account.
 2. To upload, you must register and login. 
 3. Images can be liked after logging in.
-4. While logged in, you can delete your own images and like other images.
+4. While logged in, you can delete your own images.
 
 **How to Deploy.**
  1. Download this project to your machine.
