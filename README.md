@@ -25,9 +25,6 @@ App usage is straightforward.
 3. Images can be liked after logging in.
 4. While logged in, you can delete your own images.
 
-
-
-
 **How to Deploy.**
  1. Download this project to your machine.
  2. with node, run ```NPM install package.json```. This will get you all of the required dependencies. 
@@ -43,4 +40,4 @@ App usage is straightforward.
        DB_PASS: "database password here"
        ```
        
- 4. After configuring the database and running the app, for example with nodemon, the app should work using your browser with the address: localhost:3000
+ 4. After configuring the database and running the app, for example with nodemon, the app should work using your browser with the address:``` localhost:3000```
