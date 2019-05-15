@@ -40,4 +40,4 @@ App usage is straightforward.
        DB_PASS: "database password here"
        ```
        
- 4. After configuring the database and running the app, for example with nodemon, the app should work using your browser with the address:``` localhost:3000```
+ 4. After configuring the database and running the app, for example with nodemon, the app should work using your browser with the address: ```localhost:3000```
