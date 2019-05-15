@@ -7,7 +7,7 @@ Arttu Jokinen
 Joachim Grotenfelt 
 Markus Saronsalo
 ```
-This Project is made for the Basic Concepts of Web Technology course, updated in 15/05/2019, and is currently running and can be accessed from [10.114.32.39/app/](http://10.114.32.39/app/).
+This Project is made for the Basic Concepts of Web Technology course, updated in 15/05/2019, is currently running, and can be accessed from ```[10.114.32.39/app/](http://10.114.32.39/app/)```.
 **NOTE**: App can be only accessed from Metropolia UAC's intranet! You either have to be on site or use a vpn to connect to vpn.metropolia.fi. For this, you need student/teacher credentials!
 
 **Built With**
