@@ -30,7 +30,7 @@ App usage is straightforward.
 
 **How to Deploy.**
  1. Download this project to your machine.
- 2. with node, run NPM install package.json. This will get you all of the required dependencies. 
+ 2. with node, run ```NPM install package.json```. This will get you all of the required dependencies. 
  3. You need an SQL database for the app to run properly. The database structure is in the musicproject.sql file.
     - Also a .env file needs to be set up with the following content:
     
