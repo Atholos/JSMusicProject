@@ -25,7 +25,7 @@ App usage is straightforward.
 3. To like images, you have to be logged in. The number inside the heart icon shows you the amount of likes.
 4. While logged in, you can delete your own images.
 
-**How to Deploy.**
+**How to Deploy**
  1. Download this project to your machine.
  2. Unpack the ZIP-file.
  3. with node, run ```NPM install package.json```. This will get you all of the required dependencies. 
@@ -42,3 +42,7 @@ App usage is straightforward.
        ```
        
  5. After configuring the database and running the app, for example with nodemon, the app should work using your browser with the address: ```localhost:3000```
+
+**DISCLAIMER**
+
+Some of the features are still unimplemented, for example updating user information does not work in the current build even though it is included and accessible in the page structure.
